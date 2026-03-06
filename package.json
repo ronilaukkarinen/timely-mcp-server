@@ -1,0 +1,16 @@
+{
+  "name": "timely-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Timely time tracking API",
+  "type": "module",
+  "main": "server.ts",
+  "scripts": {
+    "start": "bun server.ts",
+    "auth": "bun auth.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "zod": "^3.24.4"
+  },
+  "license": "MIT"
+}
