@@ -14,7 +14,11 @@ Timely MCP server
 </div>
 </center>
 
+<hr>
+
 MCP server for [Timely](https://timelyapp.com) time tracking API. Connects Claude Code (or any MCP client) to your Timely account for reading and creating time entries, projects, tasks, and users.
+
+<hr>
 
 <img width="803" height="340" alt="image" src="https://github.com/user-attachments/assets/553167df-0758-49db-a899-d1f6c4b13679" />
 
