@@ -1,10 +1,13 @@
 # Timely MCP server
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 MCP server for [Timely](https://timelyapp.com) time tracking API. Connects Claude Code (or any MCP client) to your Timely account for reading and creating time entries, projects, tasks, and users.
 
-<img width="890" height="658" alt="image" src="https://github.com/user-attachments/assets/314c70bb-adb8-4d41-94a5-3ecb8f74a469" />
+<img style="width: 150px; height: auto;" width="793" height="411" alt="image" src="https://github.com/user-attachments/assets/abed1a04-d69b-4ab4-a490-d606064df72d" />
+<img style="width: 300px; height: auto;" width="756" height="206" alt="image" src="https://github.com/user-attachments/assets/f3aea4cc-1c05-4574-be39-0949b02eae70" />
+
+<br><img width="803" height="340" alt="image" src="https://github.com/user-attachments/assets/553167df-0758-49db-a899-d1f6c4b13679" />
 
 ## Features
 
